@@ -1,0 +1,19 @@
+{
+	"name": "interval-or-timeout-test",
+	"version": "1.0.0",
+	"description": "compare the system utilization of a setInterval and setTimeout loop, launched into workers.",
+	"main": "interval-or-timeout.js",
+	"scripts": {
+		"test": "./interval-or-timeout-test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/interval-or-timeout-test"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"launch-modules": "^1.0.0"
+	}
+}
